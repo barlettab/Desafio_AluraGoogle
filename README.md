@@ -14,13 +14,12 @@ O Chatbot de Apoio a Saúde Mental é uma ferramenta de suporte emocional e info
 
 Útil para indivíduos que estão enfrentando desafios relacionados à saúde mental ou que simplesmente procuram desabafar e compreender melhor suas emoções. Ele oferece um suporte emocional confidencial e acessível, além de fornecer acesso a informações valiosas e recursos adicionais relacionados à saúde mental.
 
+## 📢 Importante
+
+É importante ressaltar que o Chatbot de Apoio à Saúde Mental não substitui a assistência de profissionais de saúde qualificados. Ele serve como uma ferramenta complementar, fornecendo suporte adicional e informações úteis, mas não deve ser utilizado como substituto para o aconselhamento profissional.
+
 ## ❗ Requisito
 
 Para executar esse projeto é necessário utilizar a chave de API do Google GenerativeAI. Essa chave deverá ser substituida na linha 2 (GOOGLE_API_KEY = "SUA_CHAVE"). Além disso, algumas bibliotecas são usadas nesse projeto, sendo uma delas a google-generativeai. Portanto, antes de começar, é de fundamental importância instalar ou atualizar a biblioteca do Google GenerativeAI através do seguinte comando:
 
 - !pip install -q -U google-generativeai
-
-## 📢 Importante
-
-É importante ressaltar que o Chatbot de Apoio à Saúde Mental não substitui a assistência de profissionais de saúde qualificados. Ele serve como uma ferramenta complementar, fornecendo suporte adicional e informações úteis, mas não deve ser utilizado como substituto para o aconselhamento profissional.
-
