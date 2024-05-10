@@ -1,8 +1,8 @@
 # 🎯 Desafio_AluraGoogle
 Desafio de projeto livre relacionado à Aula 4 e/ou Aula 5 da Imersão IA 2ª Edição, organizada pela Alura em parceria com o Google.
 
-## 🤗 Chatbot de Saúde Mental 
-Para esse desafio foi desenvolvido um chatbot desenvolvido em Python para fornecer apoio, suporte e recursos relacionados à saúde mental.
+## 🤗 Chatbot de Apoio à Saúde Mental 
+O Chatbot de Apoio a Saúde Mental é uma ferramenta de suporte emocional e informacional desenvolvida para oferecer apoio a indivíduos que estão enfrentando desafios relacionados à saúde mental, como depressão, ansiedade, estresse, entre outros. Utilizando a tecnologia de IA do Google (Gemini) em conjunto com a linguagem Python, o Chatbot fornece um ambiente seguro e confidencial para os usuários expressarem seus sentimentos, receberem orientações e acessarem recursos úteis.
 
 ## 📌 Funcionalidades
 
@@ -16,13 +16,7 @@ Para esse desafio foi desenvolvido um chatbot desenvolvido em Python para fornec
 
 ## 📢 Importante
 
-Para executar esse projeto é necessário utilizar a chave de API do Google GenerativeAI. Essa chave deverá ser substituida na linha 2 (GOOGLE_API_KEY = "SUA_CHAVE"). Além disso, algumas bibliotecas são usadas nesse projeto, sendo elas:
-
-- google-generativeai
-- re  
-- textwrap
-
-Por fim, antes de começar é fundamental executar o comando abaixo para instalar ou atualizar a biblioteca do Google GenerativeAI
+Para executar esse projeto é necessário utilizar a chave de API do Google GenerativeAI. Essa chave deverá ser substituida na linha 2 (GOOGLE_API_KEY = "SUA_CHAVE"). Além disso, algumas bibliotecas são usadas nesse projeto, sendo uma delas a google-generativeai. Portanto, antes de começar, é de fundamental importância instalar ou atualizar a biblioteca do Google GenerativeAI através do seguinte comando:
 
 - !pip install -q -U google-generativeai
 
