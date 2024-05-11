@@ -1,4 +1,4 @@
-# 🎯 Desafio_AluraGoogle
+# 🎯 Desafio_Alura+Google
 Desafio de projeto livre relacionado à Aula 4 e/ou Aula 5 da Imersão IA 2ª Edição, organizada pela Alura em parceria com o Google.
 
 ## 🤗 Chatbot de Apoio à Saúde Mental 
